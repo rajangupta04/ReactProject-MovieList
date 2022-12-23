@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@700&display=swap');
+
+
+*{
+    margin: 5px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+}
+.App{
+    background-color: rgb(18, 19, 19);
+    max-width: 1000px;
+    height: 100%;
+    margin: auto;
+    border: solid rgb(199, 191, 191);
+}
+nav{
+    border-bottom: 2px solid rgba(128, 128, 128, 0.606);
+    max-width: 1000px;
+
+}
+.NavbarContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1000px;
+    height: 90px;
+}
+.nav1{
+    font-size: 35px;
+
+}
+.nav h1{
+color: rgb(96, 199, 199);
+letter-spacing: 5px;
+font-size: 25px;
+}
+.nav2{
+margin-bottom: 10px;
+margin-left: 63%;
+}
+.nav2 input{
+width: 250px;
+height: 45px;
+color: black;
+font-size: 20px;
+}
+.nav2 button{
+width: 90px;
+height: 35px;
+background-color: gray;
+font-size: 17px;
+border-radius: 50px;
+}
+.nav2 button:hover{
+    background-color: darkgray;
+}
+.link a{
+    background-color: rgb(96, 199, 199);
+    color: white;
+    text-decoration: none;
+    margin: 0px 20px;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.link a:hover{
+    color: rgb(24, 28, 28);
+    background-color: white;
+    transition: 1s;
+}
+.home-content h1{
+    font-size: 50px;
+    margin: 20px 0px;
+    color: red;
+    margin-left: 10px;
+}
+.home-content button {
+    font-size: 30px;
+    margin: 20px 0px;
+    padding: 10px;
+}
+.movies-lists:hover{
+    box-shadow: 10px 10px 20px rgba(129, 129, 129, 0.758);
+    transition: 0.1s; ;
+}
+.movies-lists{
+    margin: 20px 0px;
+    padding: 10px;
+}
+.movies-lists h2{
+    color: red;  
+    margin: 10px 0px; 
+}
+.movies-lists div{
+    /* display: flex; */
+    width: 500px;
+    justify-content: space-between;
+}
+.movies-lists h3{
+    margin: 10px 0px;
+}
+.create_movie{
+    margin-top: 20px;
+    margin-left: 10px;
+    display: grid;
+    max-width: 600px;
+    grid-template-columns: 150px 250px;
+    row-gap: 15px;
+}
+.create_movie input {
+    font-size: 17px;
+    color: black;
+    border: rgb(96, 199, 199) solid 2px;
+    border-radius: 5px;
+    height: 30px;
+}
+.create_movie textarea{
+    border: rgb(96, 199, 199) solid 2px;
+    border-radius: 5px;
+}
+.create_movie button{
+    background-color: aqua;
+    text-decoration: none;
+    margin: 0px 20px;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.create_movie button:hover{
+    transition: 0.1s;
+    width: 135px;
+    background-color: rgb(126, 179, 226);
+}
+.MovieDetails button{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    margin: 0px 20px;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 8px;
+}
+.MovieDetails button:hover{
+    transition: 0.1s;
+    width: 135px;
+    background-color: rgb(126, 179, 226);
+}
+.movieTrailer_border{
+    border: solid red;
+    /* width: 415px; */
+}

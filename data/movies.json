@@ -1,0 +1,72 @@
+{
+  "movies": [
+    {
+      "movieName": "KGF 2",
+      "hero": "Yash",
+      "heroine": "Sreenidhi",
+      "genere": "Action",
+      "rating": "10",
+      "poster": "./images/kgf2.jpg",
+      "id": 2,
+      "story": "K.G.F: Chapter 2 is a 2022 Indian Kannada-language period action film written and directed by Prashanth Neel, and produced by Vijay Kiragandur under the banner Hombale Films. The second instalment in a two-part series, it serves as a sequel to the 2018 film K.G.F: Chapter 1. The film stars Yash, Sanjay Dutt, Raveena Tandon, Srinidhi Shetty and Prakash Raj.",
+      "trailer": "./videos/KGF2.mp4"
+    },
+    {
+      "movieName": "Charlie 777",
+      "hero": "Rakshith shetty",
+      "heroine": "Pummy",
+      "genere": "Drama+Action",
+      "rating": "9",
+      "poster": "./images/charlee 777.jpg",
+      "id": 3,
+      "story": "The protagonist is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which makes her complete contrast with the protagonists' character enters his life and gives him a new perspective towards it."
+    },
+    {
+      "movieName": "Don",
+      "hero": "Shahrukh khan",
+      "heroine": "Priyanka Chopra",
+      "genere": "Action+Drama",
+      "rating": "9",
+      "poster": "./images/Don.jpg",
+      "id": 4,
+      "story": "Don: The Chase Begins Again, better known simply as Don, is a 2006 Indian Hindi-language action thriller film directed by Farhan Akhtar. The film was produced by Ritesh Sidhwani and Akhtar's production company Excel Entertainment. The film stars Shah Rukh Khan and Priyanka Chopra as Don and Roma in lead roles respectively, where Khan plays the titular role.[3][4] Arjun Rampal, Isha Koppikar, Boman Irani, Pavan Malhotra, Rajesh Khattar and Om Puri appears in supporting roles. Kareena Kapoor makes a special appearance. Don is the reboot version of the 1978 film of the same name, and follows the titular criminal's look-alike who has been sent on a clandestine mission to impersonate Don after he is wounded in a chase, and to infiltrate the plans of the drug mafia."
+    },
+    {
+      "movieName": "Hera Pheri",
+      "hero": "Akshay kumar",
+      "heroine": "Tabbu",
+      "genere": "Comedy+Drama",
+      "rating": "9",
+      "poster": "./images/Hera pheri.jpg",
+      "id": 5,
+      "story": "Hera Pheri (transl. Monkey business) is a 2000 Indian Hindi-language comedy film directed by Priyadarshan, starring Akshay Kumar, Sunil Shetty, Paresh Rawal and Tabu.[3] The film is a remake of the 1989 Malayalam film Ramji Rao Speaking which itself was based on the 1971 TV movie See The Man Run.[4][5] The film spawned a sequel, Phir Hera Pheri, released in 2006. It is the first instalment of the Hera Pheri franchise."
+    },
+    {
+      "movieName": "Main Hoon Na",
+      "hero": "Shahrukh Khan",
+      "heroine": "Shusmita Sen",
+      "genere": "Romance",
+      "rating": "8",
+      "story": "Main Hoon Na (transl. I am there) is a 2004 Indian Hindi-language masala film written and directed by Farah Khan in her directorial debut. The film stars Shah Rukh Khan, Sushmita Sen, Sunil Shetty, Amrita Rao and Zayed Khan and follows Ram Sharma, an Indian soldier sent undercover as a university student to protect a general's daughter from a dangerous rogue soldier.",
+      "id": 19
+    },
+    {
+      "movieName": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi",
+      "genere": "Action",
+      "rating": "8.5",
+      "story": "K.G.F: Chapter 1 is a 2018 Indian Kannada-language period action film[5] written and directed by Prashanth Neel, and produced by Vijay Kiragandur under the banner of Hombale Films. It is the first of two installments in the series, followed by K.G.F: Chapter 2. The film features Yash as Rocky while debutant Ramachandra Raju features as Garuda. Anant Nag narrates the film, while Srinidhi Shetty, Vasishta N. Simha, Achyuth Kumar, and Malavika Avinash appear in supporting roles.",
+      "id": 22
+    },
+    {
+      "movieName": "kantara",
+      "hero": "Rishab shetty",
+      "heroine": "abc",
+      "genere": "drama",
+      "rating": "4.5",
+      "story": "dgfchhbfhebfewbfecho \"# React_MovieList-project\" >> README.md\ngit init\ngit add README.md\ngit commit -m \"first commit\"\ngit branch -M main\ngit remote add origin https://github.com/rajangupta04/React_MovieList-project.git\ngit push -u origin main",
+      "id": 23
+    }
+  ]
+}
